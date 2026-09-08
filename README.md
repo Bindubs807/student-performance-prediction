@@ -171,4 +171,3 @@ You can also open and run the notebooks inside the `src` folder using Jupyter No
 
 **Bindu BS**
 
-Data Science Major Project
